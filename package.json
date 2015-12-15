@@ -1,0 +1,23 @@
+{
+  "name": "vue-lite-loader",
+  "version": "0.1.0",
+  "description": "use jsx syntax in vue component template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hbrls <shuaizhexu@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbrls/vue-lite-loader.git"
+  },
+  "keywords": [
+    "vue",
+    "jsx",
+    "loader"
+  ],
+  "bugs": {
+    "url": "https://github.com/hbrls/vue-lite-loader/issues"
+  }
+}
