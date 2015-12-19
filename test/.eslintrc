@@ -1,0 +1,19 @@
+{
+  "extends": "airbnb",
+
+  "rules": {
+    // Mine
+    "camelcase": [0],
+    "no-console": [0],
+    "no-else-return": [0],
+    "no-new": [0],
+    "prefer-const": [0],
+    "space-before-function-paren": [2, {"anonymous": "always", "named": "never"}],
+
+    // TODO
+    "func-names": [0],
+
+    // vue-lite-loader
+    "react/react-in-jsx-scope": [0],
+  }
+}
